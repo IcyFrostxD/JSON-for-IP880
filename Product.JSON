@@ -1,23 +1,20 @@
 [
 {
-"id": "1",
-"name": "Unisex T-Shirt White",
-"price": 12,
-"image_url": 
-"http://nindam.ddns.net/imges_prodcut/T_Shirt_White.jpg"
+    "id" : "1",
+    "name" : "Elden Ring",
+    "price" : "59.99$",
+    "image_url" : "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1245620/header.jpg"
 },
 {
-"id": "2",
-"name": "Unisex T-Shirt Black",
-"price": 10,
-"image_url": 
-"http://nindam.ddns.net/imges_prodcut/T_Shirt_Black.jpg"
+    "id" : "2",
+    "name" : "Stardew Valley",
+    "price" : "14.99$",
+    "image_url" : "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413150/header.jpg"
 },
 {
-"id": "3",
-"name": "Kids T-Shirt Pink",
-"price": 1,
-"image_url": 
-"http://nindam.ddns.net/imges_prodcut/Kids_T_Shirt_Pink.jpg"
+    "id" : "3",
+    "name" : "Cyberpunk 2077",
+    "price" : "59.99$",
+    "image_url" : "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/header.jpg"
 }
 ]
