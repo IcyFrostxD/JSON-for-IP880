@@ -1,0 +1,23 @@
+[
+{
+"id": "1",
+"name": "Unisex T-Shirt White",
+"price": 12,
+"image_url": 
+"http://nindam.ddns.net/imges_prodcut/T_Shirt_White.jpg"
+},
+{
+"id": "2",
+"name": "Unisex T-Shirt Black",
+"price": 10,
+"image_url": 
+"http://nindam.ddns.net/imges_prodcut/T_Shirt_Black.jpg"
+},
+{
+"id": "3",
+"name": "Kids T-Shirt Pink",
+"price": 1,
+"image_url": 
+"http://nindam.ddns.net/imges_prodcut/Kids_T_Shirt_Pink.jpg"
+}
+]
