@@ -1,13 +1,13 @@
 [
 {
     "id" : "1",
-    "name" : "ku",
+    "name" : "Elden Ring",
     "price" : "59.99$",
     "image_url" : "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1245620/header.jpg"
 },
 {
     "id" : "2",
-    "name" : "Songpon",
+    "name" : "Stardew valley",
     "price" : "14.99$",
     "image_url" : "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413150/header.jpg"
 },
